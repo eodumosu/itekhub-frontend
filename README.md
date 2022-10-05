@@ -1,5 +1,4 @@
-# itekhub-frontend
-GIT REPOSITORY FOR ITEKHUB FRONTEND MANAGEMENT
+# ItekhubFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
